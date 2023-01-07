@@ -40,7 +40,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto
 
-Live Preview: <a href="https://gleffersonv.github.io/treinando_css/">Decodificador de Texto</a>
+Live Preview: <a href="https://gleffersonv.github.io/Formulario/">Decodificador de Texto</a>
 
 ## 🎨 Inspiração:
 
